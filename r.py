@@ -12,5 +12,6 @@ print(greet(user))
 # List comprehension example
 fruits = ['apple''banana''cherry']
 upper_fruits = [fruit.upper() for fruit in fruits]
-print(upper_fruits)
+print(upper_fruit)
 new py code addded
+new code
