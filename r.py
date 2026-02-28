@@ -13,4 +13,4 @@ print(greet(user))
 fruits = ['apple''banana''cherry']
 upper_fruits = [fruit.upper() for fruit in fruits]
 print(upper_fruits)
-
+new py code addded
